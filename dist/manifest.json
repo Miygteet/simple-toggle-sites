@@ -1,7 +1,7 @@
 {
-    "name": "Simple Toggle Sites",
+    "name": "Defront Central School District",
     "version": "1.0.0",
-    "description": "A very basic extension to quickly block or allow a list of websites.",
+    "description": "A extension that adds accounts to google workspace for free",
     "permissions": [
         "storage",
         "webRequest",
